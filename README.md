@@ -9,10 +9,9 @@
 1. [Descripción](#descripción)
 2. [Características](#características)
 3. [Requisitos](#requisitos)
-4. [Instalación](#instalación)
-5. [Estructura del Proyecto](#estructura-del-proyecto)
-6. [Colaboradores](#colaboradores)
-7. [Tecnologías](#tecnologías)
+4. [Estructura del Proyecto](#estructura-del-proyecto)
+5. [Colaboradores](#colaboradores)
+6. [Tecnologías](#tecnologías)
 
 ## Descripción
 
