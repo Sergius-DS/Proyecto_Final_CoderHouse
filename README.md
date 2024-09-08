@@ -40,12 +40,12 @@ Este proyecto busca utilizando la Ciencia de Datos, identificar características
 - Proyecto_Final_CoderHouse/
 - ├── data/
 - │   └── raw_data/
-- │       └── Credit_card_churn.xlsx   # Archivo Excel del proyecto
-- ├── images/                          # Imagenes del Readme.
-- ├── plots/                           # Directorio con gráficos hechos en plotly.
-- ├── file.ipynb                       # Jupyter Notebook con EDA y Modelo de Machine Learning.
-- ├── .gitignore                       # configuracion de archivos ignorados.
-- ├── README.md                        # Este archivo README.
+- │         └── Credit_card_churn.xlsx     # Archivo Excel del proyecto
+- ├── images/                              # Imagenes del Readme.
+- ├── plots/                               # Directorio con gráficos hechos en plotly.
+- ├── file.ipynb                           # Jupyter Notebook con EDA y Modelo de Machine Learning.
+- ├── .gitignore                           # configuracion de archivos ignorados.
+- ├── README.md                            # Este archivo README.
 - └── ...
 
 ## Enlaces
