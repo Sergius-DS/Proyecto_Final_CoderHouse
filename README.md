@@ -38,15 +38,13 @@ Este proyecto busca utilizando la Ciencia de Datos, identificar características
 
 ## Estructura del Proyecto
 
-- Viralyze/
+- Proyecto_Final_CoderHouse/
 - │
-- ├── data/                    # Directorio para los datos procesados.
-- ├── images/                  # Imagenes del readme.
-- ├── Notebooks/               # Jupyter Notebooks para análisis exploratorio y Machine .Learning
+- ├── images/                  # Imagenes del Readme.
+- ├── plots/                   # Directorio con gráficos hechos en plotly.
+- ├── file.ipynb               # Jupyter Notebook con EDA y Modelo de Machine Learning.
 - ├── .gitignore               # configuracion de archivos ignorados.
-- ├── app.py                   # Archivo de aplicación del deploy en Streamlit.
 - ├── README.md                # Este archivo README.
-- ├── requirements.txt         # Archivo de requisitos.
 - └── ...
 
 ## Enlaces
